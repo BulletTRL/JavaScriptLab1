@@ -17,12 +17,12 @@ let studentAvg = 82.5;
 console.log("The students avg grade is: ", studentAvg);
 
 let isPassing = true;
-let Passing = ""
+let passing = ""
 
 if (isPassing = true) {
-    Passing = "Passing";
+    passing = "Passing";
 } else {
-    Passing = "Failing"
+    passing = "Failing"
 }
 console.log("The student has a ", passing, " grade");
 
@@ -46,4 +46,5 @@ console.log("Is x not equal to y?", x !== y);
 let a = true, b = false;
 console.log("Logical AND:", a && b);
 console.log("Logical OR:", a || b);
+
 console.log("Logical NOT on a:", !a);
