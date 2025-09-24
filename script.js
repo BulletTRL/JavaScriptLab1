@@ -30,7 +30,7 @@ let classes = ["ENG101", "FDT102", "PRT101"];
 console.log("The student is currently enrolled in the following classes: ", classes);
 
 let homeProfessor = { firstName: "Mark", lastName: "Smith", age: 30};
-console.log("The students homeroom professor is: ", professor);
+console.log("The students homeroom professor is: ", homeProfessor);
 
 // Use of Basic Operators
 
@@ -48,4 +48,5 @@ console.log("Logical AND:", a && b);
 console.log("Logical OR:", a || b);
 
 console.log("Logical NOT on a:", !a);
+
 
