@@ -1,5 +1,4 @@
 // Declaring the use of the variables
-
 let studentName = "Tyler Hoyos";
 let studentAge = 23;
 let isEnrolled = true;
@@ -9,7 +8,6 @@ console.log("Student's Age is: ", studentAge);
 console.log("Is Enrolled: ", isEnrolled);
 
 // Data Type Information
-
 let favoriteSubject = "Mathematics";
 console.log("The students favorite subject is: ", favoriteSubject);
 
@@ -33,7 +31,6 @@ let homeProfessor = { firstName: "Mark", lastName: "Smith", age: 30};
 console.log("The students homeroom professor is: ", homeProfessor);
 
 // Use of Basic Operators
-
 console.log("Addition:", 5 + 3);
 console.log("Subtraction:", 10 - 2);
 console.log("Multiplication:", 4 * 6);
@@ -46,7 +43,4 @@ console.log("Is x not equal to y?", x !== y);
 let a = true, b = false;
 console.log("Logical AND:", a && b);
 console.log("Logical OR:", a || b);
-
 console.log("Logical NOT on a:", !a);
-
-
